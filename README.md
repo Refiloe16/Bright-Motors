@@ -38,6 +38,7 @@ The main goals of the analysis were to:
 -Databricks / SQL Platform
 -SQL Queries
 2.Data Visualization
+-loveable dashboard: https://bright-coffee-dashboard.lovable.app
 -Microsoft Excel
 -Power BI
 -Google Looker Studio
